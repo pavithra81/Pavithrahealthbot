@@ -1,6 +1,7 @@
 azureml==0.2.7
 azureml_train_restclients_hyperdrive==1.0.23
 matplotlib==3.5.2
+numpy==0.1
 pandas==0.1
 scikit_learn==1.1.1
-numpy==0.1
+
